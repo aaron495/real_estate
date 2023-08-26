@@ -8,3 +8,7 @@ Real Estate est une plateforme qui vous permet de publier vos annonces d'apparte
 - **Commit update:** `git commit -m "commit message"`
 
 - **Push updta on distant repo**: `git push origin main`
+
+## Instruction to get last update from distant repo
+
+- `git pull`
