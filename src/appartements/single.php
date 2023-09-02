@@ -1,28 +1,13 @@
-<!DOCTYPE html>
 <?php
-    include("includes/header.php");
+include("../../includes/header.php");
 ?>
-
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
-    <title>Détail du Produit</title>
-</head>
-<body>
+<br>
     <br>
     <br>
-    <br>
-    <br>
-    <br>
-    <br>
-
     <div class="">
         <div class="row">
             <div class="col-md-5">
-                <img src="assets/images/app1.jpg" alt="Image du produit" class="img-fluid">
+                <img src="/assets/images/app1.jpg" alt="Image du produit" class="img-fluid">
             </div>
             <br>
             <br>
@@ -42,20 +27,17 @@
 
     <div class="row">
             <div class="col-2">
-                <img src="assets/images/app1.jpg" alt="Image 1" class="img-fluid">
+                <img src="/assets/images/app1.jpg" alt="Image 1" class="img-fluid">
             </div>
             <div class="col-2">
-                <img src="assets/images/app1.jpg" alt="Image 2" class="img-fluid">
+                <img src="/assets/images/app1.jpg" alt="Image 2" class="img-fluid">
             </div>
             <div class="col-2">
-                <img src="assets/images/app1.jpg" alt="Image 3" class="img-fluid">
+                <img src="/assets/images/app1.jpg" alt="Image 3" class="img-fluid">
             </div>
         </div>
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-</body>
-</html>
-
-
-
+<?php
+include("../../includes/footer.php");
+?>
 
